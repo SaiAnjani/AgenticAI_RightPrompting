@@ -96,14 +96,14 @@ The calculator uses a sophisticated system prompt with an LLM (Large Language Mo
 
 
 ## Prompt Validation from ChatGPT
-      {
-   "explicit_reasoning": true,
-   "structured_output": true,
-   "tool_separation": true,
-   "conversation_loop": true,
-   "instructional_framing": true,
-   "internal_self_checks": true,
-   "reasoning_type_awareness": true,
-   "fallbacks": true,
-   "overall_clarity": "This prompt is exceptionally well-structured, enforcing clear reasoning steps, output formats, tool use boundaries, and error handling. It strongly supports iterative, multi-turn interaction with built-in self-verification and fallback strategies."
+   
+- "explicit_reasoning": true,
+- "structured_output": true,
+- "tool_separation": true,
+- "conversation_loop": true,
+- "instructional_framing": true,
+- "internal_self_checks": true,
+- "reasoning_type_awareness": true,
+- "fallbacks": true,
+- "overall_clarity": "This prompt is exceptionally well-structured, enforcing clear reasoning steps, output formats, tool use boundaries, and error handling. It strongly supports iterative, multi-turn interaction with built-in self-verification and fallback strategies."
    }
